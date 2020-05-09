@@ -1,0 +1,105 @@
+# 通用
+
+## 工具类
+
+### CAD标准
+
+    * [CAD文件制图规定](http://in.tjad.cloud/download/CAD文件制图规定2019.12.dwg)
+    * [CAD打印样式](http://in.tjad.cloud/download/TJAD3S201905.CTB)
+### 文件模板
+
+    * [PPT文件标准格式模板](http://in.tjad.cloud/download/PPT文件标准格式规定.zip)
+    * [Word文件标准格式模板](http://in.tjad.cloud/download/Word 文件标准格式规定.zip)
+    * 基本文件
+      * [会议记录.doc](http://in.tjad.cloud/download/通用文件模板/602 会议记录.doc)
+      * [会议签到记录.doc](http://in.tjad.cloud/download/通用文件模板/603 会议签到记录.doc)
+      * [工程联系单.doc](http://in.tjad.cloud/download/通用文件模板/604 工程联系单.doc)
+      * [MEMO.doc](http://in.tjad.cloud/download/通用文件模板/606 MEMO.doc)
+      * [培训签到表.doc](http://in.tjad.cloud/download/通用文件模板/QEHS-206 培训签到表.doc)
+      * [设计文本封面、扉页和签名页样式A3（建筑类）.DOC](http://in.tjad.cloud/download/通用文件模板/QS-324 设计文本封面、扉页和签名页样式A3（建筑类）.DOC)
+      * [项目手册（2020版）](http://in.tjad.cloud/download/项目手册（2020版）.zip)
+    * 档案管理
+      * [TJAD三院电子文件归档要求（修订版）.pdf](http://in.tjad.cloud/download/档案管理/TJAD三院电子文件归档要求（修订版）.pdf)
+      * [计算书页码编制操作说明.pdf](http://in.tjad.cloud/download/档案管理/附件六：计算书页码编制操作说明.pdf)
+      * [同版替换步骤.pdf](http://in.tjad.cloud/download/档案管理/同版替换步骤.pdf)
+      * [同版替换流程范例（2018）.docx](http://in.tjad.cloud/download/档案管理/同版替换流程范例（2018）.docx)
+## 资料类
+
+### [规范](https://shimo.im/docs/QwJrKTgWHwJ9gcK3/)
+
+### [图集](https://shimo.im/docs/QR9Xy1TPdvsCBLyD/)
+
+
+---
+
+
+# 方案设计阶段
+
+### 
+
+---
+
+
+# 初步设计阶段
+
+## 文件模板
+
+### [初步设计说明示例](http://in.tjad.cloud/download/山西师范大学图书馆设计说明(全专业)20170807.doc)
+
+
+---
+
+
+# 施工图设计阶段
+
+## 文件模板
+
+### 基本文件
+
+    * [校审记录单.doc](http://in.tjad.cloud/download/通用文件模板/QS-311 校审记录单.DOC)
+    * [拍图记录单.doc](http://in.tjad.cloud/download/通用文件模板/QS-312 拍图记录单.DOC)
+### 施工图结构设计总说明
+
+    * [使用说明书](https://shimo.im/docs/wy9HqxKCCCVXxPrp/ )
+    * [施工图结构设计总说明（综合说明）模板 .dwg](http://in.tjad.cloud/download/施工图结构设计总说明/32-1 施工图结构设计总说明（综合说明）模板 .dwg)
+    * [施工图结构设计总说明（地基与基础）模板 .dwg](http://in.tjad.cloud/download/施工图结构设计总说明/32-2 施工图结构设计总说明（地基与基础）模板 .dwg)
+    * [施工图结构设计总说明（混凝土结构）模板.dwg](http://in.tjad.cloud/download/施工图结构设计总说明/32-3 施工图结构设计总说明（混凝土结构）模板.dwg)
+    * [施工图结构设计总说明（钢结构）模板.dwg](http://in.tjad.cloud/download/施工图结构设计总说明/32-4 施工图结构设计总说明（钢结构）模板.dwg)
+    * [施工图结构设计总说明（绿色建筑）模板.dwg](http://in.tjad.cloud/download/施工图结构设计总说明/32-5 施工图结构设计总说明（绿色建筑）模板.dwg)
+    * [施工图结构设计总说明（加固改造）模板.dwg](http://in.tjad.cloud/download/施工图结构设计总说明/32-6 施工图结构设计总说明（加固改造）模板.dwg)
+### 院通用结构构造详图
+
+    * [使用说明书](https://shimo.im/docs/PYh9XTqhQwGgx3cQ/ )
+    * [院通用结构构造详图(综合类）模板.dwg](http://in.tjad.cloud/download/院通用结构构造详图/32-1 院通用结构构造详图(综合类）模板.dwg)
+    * [院通用结构构造详图（地基与基础）模板.dwg](http://in.tjad.cloud/download/院通用结构构造详图/32-2 院通用结构构造详图（地基与基础）模板.dwg)
+    * [院通用结构构造详图 （混凝土结构）模板.dwg](http://in.tjad.cloud/download/院通用结构构造详图/32-3 院通用结构构造详图 （混凝土结构）模板.dwg)
+### 非通用结构构造详图
+
+    * [灌注桩说明和详图.dwg](http://in.tjad.cloud/download/非通用结构构造详图/D.灌注桩说明和详图.dwg)
+    * [基础构造详图（筏板基础）.dwg](http://in.tjad.cloud/download/非通用结构构造详图/D.基础构造详图（筏板基础）.dwg)
+    * [带斜杆构件配筋构造详图 .dwg](http://in.tjad.cloud/download/非通用结构构造详图/H.带斜杆构件配筋构造详图 .dwg)
+    * [地下室外墙钢筋构造详图.dwg](http://in.tjad.cloud/download/非通用结构构造详图/H.地下室外墙钢筋构造详图.dwg)
+    * [牛腿设计(例题及详图) .dwg](http://in.tjad.cloud/download/非通用结构构造详图/H.牛腿设计(例题及详图) .dwg)
+## 参考资料
+
+### 施工图编制深度图样
+
+    * [基础图纸](http://in.tjad.cloud/download/施工图编制深度图样/基础图纸.zip)
+
+---
+
+
+# 施工配合
+
+### 文件模板
+
+* [施工图技术交底提纲.doc](http://in.tjad.cloud/download/施工配合/QS-320 施工图技术交底提纲.doc)
+* [施工配合和验收阶段文件清单.docx](http://in.tjad.cloud/download/施工配合/QS-320 施工配合和验收阶段文件清单.docx)
+
+---
+
+
+# 项目总结
+
+### [专题技术总结研究库](http://blog.tjad.cloud/)
+
